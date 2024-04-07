@@ -4,7 +4,7 @@ An application in Rust to study gravity in a pendulum.
 
 ## Overview
 
-The idea is simulate the pendulum of chrono tiger. Code based on youtube video: https://www.youtube.com/watch?v=U-X51GsTAzA&t=1633s&pp=ygUMUnVzdCBQZW5kdWxv
+The idea is to simulate the pendulum of Chrono Tiger. Code based on the YouTube video: [Link](https://www.youtube.com/watch?v=U-X51GsTAzA&t=1633s&pp=ygUMUnVzdCBQZW5kdWxv)
 
 ## How to Use
 
